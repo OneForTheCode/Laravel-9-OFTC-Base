@@ -14,9 +14,11 @@ developer or production extra's
 - [barryvdh/laravel-debugbar]()
 
 ### *Laravel Components*
+======
 - N/A
 
-### **Laravel Traits**
+### *Laravel Traits*
+==
 
 #### Belongs To
 ------
