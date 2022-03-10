@@ -8,26 +8,29 @@ developer or production extra's
 ## Laravel
 
 ### Laravel Extra's
+------
 
 - [laravel/jetstream](https://jetstream.laravel.com/2.x/)
 - [barryvdh/laravel-debugbar]()
 
-### Laravel Components
+### *Laravel Components*
 - N/A
 
-### Laravel Traits
+### **Laravel Traits**
 
 #### Belongs To
-- [BelongsToComment]
-- [BelongsToPost]
-- [BelongsToProduct]
-- [BelongsToTeam]
-- [BelongsToUser]
+------
+- BelongsToComment
+- BelongsToPost
+- BelongsToProduct
+- BelongsToTeam
+- BelongsToUser
 
 #### Has Many
-- [HasManyComments]
-- [HasManyPosts]
-- [HasManyProducts]
+------
+- HasManyComments
+- HasManyPosts
+- HasManyProducts
 
 ## Livewire
 
@@ -38,6 +41,6 @@ developer or production extra's
 ## Tailwind
 
 ### Extended color theme
-- [Primary]
-- [Secondary]
-- [Tertairy]
+- primary
+- secondary
+- tertairy
