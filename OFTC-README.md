@@ -23,8 +23,10 @@ developer or production extra's
 - [x] Laravel Activity Log - [spatie/laravel-activitylog](https://github.com/spatie/laravel-activitylog)
 
 ## *Laravel Developers Extra's*
-- [x] Laravel Debugbar - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar)
-- [x] Laravel Visit - [spatie/laravel-visit](https://github.com/spatie/laravel-visit)
+| Activated | Package Name | Composer require | Source | Documentation |
+---
+| [x] | Laravel Debugbar | barryvdh/laravel-debugbar | (https://github.com/barryvdh/laravel-debugbar) | - |
+| [x] | Laravel Visit | spatie/laravel-visit | (https://github.com/spatie/laravel-visit) | - |
 
 ## *Laravel Components*
 - N/A
