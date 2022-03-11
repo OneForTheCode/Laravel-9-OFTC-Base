@@ -8,8 +8,12 @@ developer or production extra's
 
 ## *Laravel Extra's*
 - [x] Laravel Jetstream - [laravel/jetstream](https://jetstream.laravel.com/2.x/)
-- [x] Laravel Debugbar - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar)
 - [x] Laravel Backup - [spatie/laravel-backup](https://spatie.be/docs/laravel-backup/v8/introduction)
+- [x] Laravel Slack Alerts - [spatie/laravel-slack-alerts](https://github.com/spatie/laravel-slack-alerts)
+- [x] Laravel Discord Alerts - [spatie/laravel-discord-alerts](https://github.com/spatie/laravel-discord-alerts)
+
+## *Laravel Developers Extra's*
+- [x] Laravel Debugbar - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar)
 - [x] Laravel Visit - [spatie/laravel-visit](https://github.com/spatie/laravel-visit)
 
 ## *Laravel Components*
