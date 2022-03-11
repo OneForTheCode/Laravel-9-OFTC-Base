@@ -12,6 +12,7 @@ developer or production extra's
 - [x] Laravel Slack Alerts - [spatie/laravel-slack-alerts](https://github.com/spatie/laravel-slack-alerts)
 - [x] Laravel Discord Alerts - [spatie/laravel-discord-alerts](https://github.com/spatie/laravel-discord-alerts)
 - [x] Laravel Support Bubble - [spatie/laravel-support-bubble](https://github.com/spatie/laravel-support-bubble)
+- [x] Laravel Markdown - [spatie/laravel-markdown](https://spatie.be/docs/laravel-markdown/v1/introduction)
 
 ## *Laravel Developers Extra's*
 - [x] Laravel Debugbar - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar)
