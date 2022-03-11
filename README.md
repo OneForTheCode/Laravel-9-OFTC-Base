@@ -1,13 +1,11 @@
 <div id="top"></div>
 
 <!-- PROJECT SHIELDS -->
-<div align="center">
-  [![Contributors][Contributors-shield]][Contributors-url]
-  [![Forks][forks-shield]][forks-url]
-  [![Stargazers][stars-shield]][stars-url]
-  [![Issues][issues-shield]][issues-url]
-  [![MIT License][license-shield]][license-url]
-</div>
+[![Contributors][Contributors-shield]][Contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 
 <!-- PROJECT HEADER -->
 <br />
@@ -89,7 +87,7 @@ To get a local copy up and running follow these simple example steps.
 The following tools and services need to be installed on your development or production enviroment.
 If these tools or services aren't installed yet, please follow the install guides of the tools or services itself.
 
-** *Required* **
+***Required***
 * git [download](https://git-scm.com/downloads)
 * nodejs [download](https://nodejs.org/en/downloads)
 * php 8.x [download](https://php.net/downloads.php)
@@ -186,11 +184,9 @@ Distributed under the MIT License. see [`LICENSE`](https//github.com/OneForTheCo
 <!-- CONTACT -->
 ## 6. Contact
 
-[One For The Code](https://one-for-the-code.be) - info@oftc.be
-
-[All In One](hhttps://all-in-one.be) - [@allinonebe](http//twitter.com/allinonebe) - info@all-in-one.be
-
-Project Link: [https://github.com/OneForTheCode/Laravel-9-OFTC-Base](https://github.com/OneForTheCode/Laravel-9-OFTC-Base)
+- [One For The Code](https://one-for-the-code.be) - info@oftc.be
+- [All In One](hhttps://all-in-one.be) - [@allinonebe](http//twitter.com/allinonebe) - info@all-in-one.be
+- Project Link: [https://github.com/OneForTheCode/Laravel-9-OFTC-Base](https://github.com/OneForTheCode/Laravel-9-OFTC-Base)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
