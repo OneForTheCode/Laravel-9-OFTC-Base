@@ -51,11 +51,7 @@
       <a href="#3-tailwind-css">Tailwind CSS</a>
       <ul>
         <li><a href="#tailwind-plugins">Tailwind Plugins</a></li>
-        <li><a href="#livewire-components">Tailwind Extended theme</a>
-          <ul>
-            <li><a href="#colors">Colors</li>
-          </ul>
-        </li>
+        <li><a href="#livewire-components">Tailwind Extended theme</a></li>
       </ul>
     </li>
     <li><a href="#4-license">License</a></li>
