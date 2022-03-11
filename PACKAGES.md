@@ -32,23 +32,23 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#laravel-9.x">Laravel 9.x</a>
+      <a href="#1-laravel-9.x">Laravel 9.x</a>
       <ul>
-        <li><a href="#production-packages">Production packages</a></li>
-        <li><a href="#developer-packages">Developer Packages</a></li>
-        <li><a href="#blade-components">Blade Components</a></li>
+        <li><a href="#laravel-production-packages">Laravel Production packages</a></li>
+        <li><a href="#laravel-developer-packages">Laravel Developer Packages</a></li>
+        <li><a href="#laravel-blade-components">Laravel Blade Components</a></li>
         <li><a href="#laravel-traits">Laravel Traits</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Livewire</a>
+      <a href="#2-livewire">Livewire</a>
       <ul>
         <li><a href="#livewire-extras">Livewire Extra's</a></li>
         <li><a href="#livewire-components">Livewire Components</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Tailwind CSS</a>
+      <a href="#3-tailwind-css">Tailwind CSS</a>
       <ul>
         <li><a href="#tailwind-plugins">Tailwind Plugins</a></li>
         <li><a href="#livewire-components">Tailwind Extended theme</a>
@@ -58,9 +58,9 @@
         </li>
       </ul>
     </li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#mainteners">Mainteners</a></li>
+    <li><a href="#4-license">License</a></li>
+    <li><a href="#5-contact">Contact</a></li>
+    <li><a href="#6-mainteners">Mainteners</a></li>
   </ol>
 </details>
 
@@ -96,7 +96,7 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### Laravel Components
+### Blade Components
 - N/A
 
 <p align="right">(<a href="#top">back to top</a>)</p>
