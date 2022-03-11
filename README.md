@@ -130,8 +130,7 @@ If these tools or services aren't installed yet, please follow the install guide
    ```
    > :warning: **Warning:**
    > 
-   > Never change the `APP_KEY` after installation on production enviroment.
-   > This wil result in all of your encrypted/hashed data being lost!
+   > Never change the `APP_KEY` after installation on production enviroment. This wil result in all of your encrypted/hashed data being lost!
 
 7. Running database migrations
    ```sh
