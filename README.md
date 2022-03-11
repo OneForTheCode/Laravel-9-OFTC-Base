@@ -226,7 +226,7 @@ Distributed under the MIT License. see [`LICENSE`](https://github.com/OneForTheC
 [issues-url]: https://github.com/OneForTheCode/Laravel-9-OFTC-Base/issues
 [license-shield]: https://img.shields.io/github/license/OneForTheCode/Laravel-9-OFTC-Base.svg?style=for-the-badge
 [license-url]: https://github.com/OneForTheCode/Laravel-9-OFTC-Base/blob/master/LICENSE
-[download-shield]: https://img.shields.io/github/downloads/OneForTheCode/Laravel-9-OFTC-Base.svg?style=for-the-badge
+[download-shield]: https://img.shields.io/github/downloads/OneForTheCode/Laravel-9-OFTC-Base/total.svg?style=for-the-badge
 [download-url]: https://github.com/OneForTheCode/Laravel-9-OFTC-Base/releases
-[lastcommit-shield]: https://img.shields.io/github/commits/OneForTheCode/Laravel-9-OFTC-Base.svg?style=for-the-badge
+[lastcommit-shield]: https://img.shields.io/github/last-commit/OneForTheCode/Laravel-9-OFTC-Base.svg?style=for-the-badge
 [lastcommit-url]: https://github.com/OneForTheCode/Laravel-9-OFTC-Base/commits/main
