@@ -69,6 +69,8 @@ Laravel 9 - One For The Code Base is a laravel 9 basic install with extra compon
 * [Livewire](https://laravel-livewire.com)
 * [Tailwind CSS](https://tailwindcss.com)
 
+<a href="https://laravel.com"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" alt="Laravel Logo" height="75"></a>
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Used Packages
