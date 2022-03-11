@@ -81,7 +81,7 @@ To see all the details of the used and installed composer/npm packages and their
 <!-- GETTING STARTED -->
 ## 2. Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
+This is an example of how you may be setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
@@ -89,13 +89,13 @@ To get a local copy up and running follow these simple example steps.
 The following tools and services need to be installed on your development or production enviroment.
 If these tools or services aren't installed yet, please follow the install guides of the tools or services itself.
 
-*Required*
+** *Required* **
 * git [download](https://git-scm.com/downloads)
 * nodejs [download](https://nodejs.org/en/downloads)
 * php 8.x [download](https://php.net/downloads.php)
 * composer [download](http://getcomposer.org/dpownload)
 
-*Optional*
+***Optional***
 * HTTP server with PHP support (e.g.: Apache, Nginx, Caddy)
 * A supported database (e.g.: MySQL, MariaDB, PostgreSQL, Redis)
 
