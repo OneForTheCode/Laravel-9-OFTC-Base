@@ -16,6 +16,8 @@ developer or production extra's
 - [x] Laravel Schedule Monitor - [spatie/laravel-schedule-monitor](https://github.com/spatie/laravel-schedule-monitor)
 - [x] Laravel Welcome Notification - [spatie/laravel-welcome-notification](https://github.com/spatie/laravel-welcome-notification)
 - [x] Laravel Honeypot - [spatie/laravel-honepot](https://github.com/spatie/laravel-honepot)
+- [x] iso3166 - [league/iso3166](https://github.com/thephpleague/iso3166)
+- [x] Laravel Validation Rules - [spatie/laravel-validation-rules](https://github.com/spatie/laravel-validation-rules)
 
 ## *Laravel Developers Extra's*
 - [x] Laravel Debugbar - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar)
