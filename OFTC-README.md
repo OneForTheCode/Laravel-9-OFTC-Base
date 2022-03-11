@@ -10,6 +10,7 @@ developer or production extra's
 - [x] Laravel Jetstream - [laravel/jetstream](https://jetstream.laravel.com/2.x/)
 - [x] Laravel Debugbar - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar)
 - [x] Laravel Backup - [spatie/laravel-backup](https://spatie.be/docs/laravel-backup/v8/introduction)
+- [x] Laravel Visit - [spatie/laravel-visit](https://github.com/spatie/laravel-visit)
 
 ## *Laravel Components*
 - N/A
