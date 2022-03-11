@@ -191,7 +191,14 @@ Project Link: [https://github.com/OneForTheCode/Laravel-9-OFTC-Base](https://git
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgment
 
-* []()
+* [Spatie](https://spatie.be)
+* [barryvdh](https://github.com/barryvdh)
+* [saadeghi](https://github.com/saadeghi)
+* [ascsoftw](http://github.com/ascsoftw)
+* [jantinnerezo](http://github.com/jantinnerezo)
+* [Power-Components](http://github.com/Power-Components)
+* [asantibanez)](https://github.com/asantibanez)
+* [mediconesystems](https://livewire-datatables.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
