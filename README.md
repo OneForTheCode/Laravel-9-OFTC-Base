@@ -176,7 +176,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## 5. License
 
-Distributed under the MIT License. see [`LICENSE`](https//github.com/OneForTheCode/Laravel-9-OFTC-Base/LICENSE) for more information.
+Distributed under the MIT License. see [`LICENSE`](https://github.com/OneForTheCode/Laravel-9-OFTC-Base/LICENSE) for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
