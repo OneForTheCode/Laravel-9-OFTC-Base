@@ -71,7 +71,7 @@ Laravel 9 - One For The Code Base is a laravel 9 basic install with extra compon
 
 ### Used Packages
 
-To see all the details of the used and installed composer/npm packages and their documentation please read the [`PACKAGES.md`](https://github.com/OneForTheCode/Laravel-9-OFTC-Base/PACKAGES.md) file for more information.
+To see all the details of the used and installed composer/npm packages and their documentation please read the [`PACKAGES.md`](https://github.com/OneForTheCode/Laravel-9-OFTC-Base/blob/main/PACKAGES.md) file for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -176,7 +176,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## 5. License
 
-Distributed under the MIT License. see [`LICENSE`](https://github.com/OneForTheCode/Laravel-9-OFTC-Base/LICENSE) for more information.
+Distributed under the MIT License. see [`LICENSE`](https://github.com/OneForTheCode/Laravel-9-OFTC-Base/blob/main/LICENSE) for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
