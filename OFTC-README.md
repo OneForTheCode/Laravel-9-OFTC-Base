@@ -14,7 +14,7 @@ developer or production extra's
 | :heavy_check_mark: | Laravel Slack Alerts | spatie/laravel-slack-alerts | [github](https://github.com/spatie/laravel-slack-alerts) | - |
 | :heavy_check_mark: | Laravel Discord Alerts | spatie/laravel-discord-alerts | [github](https://github.com/spatie/laravel-discord-alerts) | - |
 | :heavy_check_mark: | Laravel Support Bubble | spatie/laravel-support-bubble | [github](https://github.com/spatie/laravel-support-bubble) | - |
-| :heavy_check_mark: | Laravel Markdown | spatie/laravel-markdown | - | (https://spatie.be/docs/laravel-markdown/v1/introduction) |
+| :heavy_check_mark: | Laravel Markdown | spatie/laravel-markdown | - | [spatie.be](https://spatie.be/docs/laravel-markdown/v1/introduction) |
 | :heavy_check_mark: | Laravel Schedule Monitor | spatie/laravel-schedule-monitor | [github](https://github.com/spatie/laravel-schedule-monitor) | - |
 | :heavy_check_mark: | Laravel Welcome Notification | spatie/laravel-welcome-notification | [github](https://github.com/spatie/laravel-welcome-notification) | - |
 | :heavy_check_mark: | Laravel Honeypot | spatie/laravel-honepot | [github](https://github.com/spatie/laravel-honepot) | - |
@@ -54,7 +54,7 @@ developer or production extra's
 ## Livewire Extra's
 
 ## Livewire Components
-| Activated | Package Name | NPM / Composer require | Source | Documentation |
+| Activated | Package Name | Composer require | Source | Documentation |
 | :-------: | ------------ | ---------------------- | ------ | ------------- |
 | :heavy_multiplication_x: | Livewire Datatables | mediconesystems/livewire-datatables | [github](https://livewire-datatables.com) | - |
 | :heavy_multiplication_x: | Livewire Calendar | asantibanez/livewire-calendar | [github](https://github.com/asantibanez/livewire-calendar) | - |
@@ -63,6 +63,11 @@ developer or production extra's
 | :heavy_check_mark: | Livewire Toast | ascsoftw/livewire-toast | [github](http://github.com/ascsoftw/livewire-toast) | - |
 
 # Tailwind
+
+## Tailwind Plugins
+| Activated | Package Name | NPM Install | Source | Documentation |
+| :-------: | ------------ | ---------------------- | ------ | ------------- |
+| :heavy_check_mark: | daisyUI 2.0 | daisyui | [github](https://github.com/saadeghi/daisyui) | [daisyui.com](https://daisyui.com/docs/) |
 
 ## Extended color theme
 - primary
