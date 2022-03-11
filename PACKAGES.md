@@ -60,7 +60,7 @@
     </li>
     <li><a href="#4-license">License</a></li>
     <li><a href="#5-contact">Contact</a></li>
-    <li><a href="#6-mainteners">Mainteners</a></li>
+    <li><a href="#6-maintainers">Maintainers</a></li>
   </ol>
 </details>
 
@@ -96,7 +96,7 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### Blade Components
+### Laravel Blade Components
 - N/A
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -124,6 +124,9 @@
 ## 2. Livewire
 
 ### Livewire Extra's
+- N/A
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Livewire Components
 | Activated | Package Name | Composer require | Source | Documentation |
@@ -150,7 +153,7 @@
 
 ### Tailwind Extended theme
 
-#### Colors
+***Colors***
 - primary
 - secondary
 - tertairy

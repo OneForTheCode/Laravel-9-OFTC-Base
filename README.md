@@ -49,7 +49,7 @@
     <li><a href="#4-contributing">Contributing</a></li>
     <li><a href="#5-license">License</a></li>
     <li><a href="#6-contact">Contact</a></li>
-    <li><a href="#7-mainteners">Mainteners</a></li>
+    <li><a href="#7-maintainers">Maintainers</a></li>
     <li><a href="#8-acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -201,7 +201,7 @@ Distributed under the MIT License. see [`LICENSE`](https://github.com/OneForTheC
 
 
 <!-- ACKNOWLEDGMENTS -->
-## 8. Acknowledgment
+## 8. Acknowledgments
 
 * [Spatie](https://spatie.be)
 * [barryvdh](https://github.com/barryvdh)
