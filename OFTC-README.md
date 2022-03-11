@@ -18,6 +18,7 @@ developer or production extra's
 - [x] Laravel Honeypot - [spatie/laravel-honepot](https://github.com/spatie/laravel-honepot)
 - [x] iso3166 - [league/iso3166](https://github.com/thephpleague/iso3166)
 - [x] Laravel Validation Rules - [spatie/laravel-validation-rules](https://github.com/spatie/laravel-validation-rules)
+- [x] Laravel Referer - [spatie/laravel-referer](https://github.com/spatie/laravel-referer)
 
 ## *Laravel Developers Extra's*
 - [x] Laravel Debugbar - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar)
