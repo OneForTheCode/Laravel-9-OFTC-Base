@@ -20,6 +20,7 @@ developer or production extra's
 - [x] Laravel Validation Rules - [spatie/laravel-validation-rules](https://github.com/spatie/laravel-validation-rules)
 - [x] Laravel Referer - [spatie/laravel-referer](https://github.com/spatie/laravel-referer)
 - [x] Laravel Sitemap - [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap)
+- [x] Laravel Activity Log - [spatie/laravel-activitylog](https://github.com/spatie/laravel-activitylog)
 
 ## *Laravel Developers Extra's*
 - [x] Laravel Debugbar - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar)
