@@ -130,7 +130,7 @@ If these tools or services aren't installed yet, please follow the install guide
    ```sh
    php artisan key:generate
    ```
-   <div style="margin: 20px auto; padding: 30px; border-radius: 5px; box-shadow: 0 0 15px 5px #ccc; background-color: #f7a7a3; border-left: 5px solid darken(#f7a7a3, 50);">
+   <div style="margin: 20px auto; padding: 30px; border-radius: 5px; box-shadow: 0 0 15px 5px #ccc; background-color: #f7a7a3; border-left: 5px solid #bc1810;">
      Never change the `APP_KEY` after installation on production enviroment.
      This wil result in all of your encrypted/hashed data being lost.
    </div>
