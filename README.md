@@ -1,24 +1,25 @@
 <div id="top"></div>
 
 <!-- PROJECT SHIELDS -->
-[![Contributors][Contributors-shield]][Contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+<div align="center">
+  [![Contributors][Contributors-shield]][Contributors-url]
+  [![Forks][forks-shield]][forks-url]
+  [![Stargazers][stars-shield]][stars-url]
+  [![Issues][issues-shield]][issues-url]
+  [![MIT License][license-shield]][license-url]
+</div>
 
 <!-- PROJECT HEADER -->
 <br />
 <div align="center">
-  <a href="https://github.com/OneForTheCode/Laravel-9-OFTC-Base">
-    <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" alt="Laravel Logo" width="400">
-  </a>
-
-<h3 align="center">Laravel 9 - OFTC Base Template</h3>
+  <h3 align="center">Laravel 9 - OFTC Base Template</h3>
 
   <p align="center">
     An awesome laravel starter template to jumpstart your project!
     <br />
+    <a href="https://github.com/OneForTheCode/Laravel-9-OFTC-Base">
+      <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" alt="Laravel Logo" width="400">
+    </a>
     <br />
     <a href="https://github.com/OneForTheCode/Laravel-9-OFTC-Base/issues">Report Bug</a>
     ·
@@ -54,7 +55,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## 1. About The Project
 
 Laravel 9 - One For The Code Base is a laravel 9 basic install with extra components, tools, traits, livewire components and many other developer or production extra's
 
@@ -71,7 +72,7 @@ Laravel 9 - One For The Code Base is a laravel 9 basic install with extra compon
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## 2. Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
@@ -135,7 +136,7 @@ If these tools or services aren't installed yet, please follow the install guide
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## 3. Usage
 
 After the installation you may configure your webserver to serve the `public` folder or launch
 the localhost server (example below) and visit the page on [localhost:8000](http://127.0.0.1:8000).
@@ -147,7 +148,7 @@ php artisan serve
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## 4. Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire and create. Any contributions you make are **greatly appreciated**.
 
@@ -164,7 +165,7 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- LICENSE -->
-## License
+## 5. License
 
 Distributed under the MIT License. see `LICENSE`for more information.
 
@@ -172,7 +173,7 @@ Distributed under the MIT License. see `LICENSE`for more information.
 
 
 <!-- CONTACT -->
-## Contact
+## 6. Contact
 
 [One For The Code](https://one-for-the-code.be) - info@oftc.be
 [All In One](hhttps://all-in-one.be) - [@allinonebe](http//twitter.com/allinonebe) - info@all-in-one.be
@@ -182,14 +183,14 @@ Project Link: [https://github.com/OneForTheCode/Laravel-9-OFTC-Base](https://git
 
 
 <!-- MAINTAINERS -->
-## Maintainers
+## 7. Maintainers
 * Dennnis de Houx - dennis@aio.be
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgment
+## 8. Acknowledgment
 
 * [Spatie](https://spatie.be)
 * [barryvdh](https://github.com/barryvdh)
