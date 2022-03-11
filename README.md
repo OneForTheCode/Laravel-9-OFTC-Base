@@ -1,64 +1,209 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<div id="top"></div>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+<!-- PROJECT SHIELDS -->
+[![Contributors][Contributors-shield]][Contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 
-## About Laravel
+<!-- PROJECT HEADER -->
+<br />
+<div align="center">
+  <a href="https://github.com/OneForTheCode/Laravel-9-OFTC-Base">
+    <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" alt="Laravel Logo" width="400">
+  </a>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+<h3 align="center">Laravel 9 - OFTC Base Template</h3>
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+  <p align="center">
+    An awesome laravel starter template to jumpstart your project!
+    <br />
+    <br />
+    <a href="https://github.com/OneForTheCode/Laravel-9-OFTC-Base/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/OneForTheCode/Laravel-9-OFTC-Base/issues">Request Feature</a>
+  </p>
+</div>
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#mainteners">Mainteners</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
 
-## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+Laravel 9 - One For The Code Base is a laravel 9 basic install with extra components, tools, traits, livewire components and many other developer or production extra's
 
-## Laravel Sponsors
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+### Built With
 
-### Premium Partners
+* [Laravel](https://laravel.com)
+* [Jetstream](https://jetstream.laravel.com/2.x/)
+* [Livewire](https://laravel-livewire.com)
+* [Tailwind CSS](https://tailwindcss.com)
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+<p align="right">(<a href="#top">back to top</a>)</p>
 
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+The following tools and services need to be installed on your development or production enviroment.
+If these tools or services aren't installed yet, please follow the install guides of the tools or services itself.
+
+* git [download](https://git-scm.com/downloads)
+* nodejs [download](https://nodejs.org/en/downloads)
+* php 8.x [download](https://php.net/downloads.php)
+* composer [download](http://getcomposer.org/dpownload)
+*Optional*
+* HTTP server with PHP support (e.g.: Apache, Nginx, Caddy)
+* A supported database (e.g.: MySQL, MariaDB, PostgreSQL, Redis)
+
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/OneForTheCode/Laravel-9-OFTC-Base.git
+   ```
+2. Change to the working directory
+   ```sh
+   cd Laravel-9-OFTC-Base
+   ```
+3. Install Composer packages (development)
+   ```sh
+   composer install -o
+   ```
+   Install Composer packages (production)
+   ```sh
+   composer install --no-dev -o
+   ```
+4. Install NPM packages
+   ```sh
+   npm install
+   ```
+5. Copy the example enviroment variables
+   ```sh
+   cp .env.example .env
+   ```
+6. Generate the application key in `.env`
+   ```sh
+   php artisan key:generate
+   ```
+   ** [color=darkred] Never change the `APP_KEY` after installation on production enviroment.
+   This wil result in all of your encrypted/hashed data being lost. [/color]**
+7. Running database migrations
+   ```sh
+   php artisan migrate
+   ```
+8. Build and run npm dependencies
+   ```sh
+   npm run dev
+   ```
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+After the installation you may configure your webserver to serve the `public` folder or launch
+the localhost server (example below) and visit the page on [localhost:8000](http://127.0.0.1:8000).
+```sh
+php artisan serve
+```
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+<!-- CONTRIBUTING -->
 ## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Contributions are what make the open source community such an amazing place to learn, inspire and create. Any contributions you make are **greatly appreciated**.
 
-## Code of Conduct
+If you have a suggestion that would make this better, please for the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+1. Fork the project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-## Security Vulnerabilities
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
+<!-- LICENSE -->
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Distributed under the MIT License. see `LICENSE`for more information.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+<!-- CONTACT -->
+## Contact
+
+[One For The Code](https://one-for-the-code.be) - info@oftc.be
+[All In One](hhttps://all-in-one.be) - [@allinonebe](http//twitter.com/allinonebe) - info@all-in-one.be
+Project Link: [https://github.com/OneForTheCode/Laravel-9-OFTC-Base](https://github.com/OneForTheCode/Laravel-9-OFTC-Base)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+<!-- MAINTAINERS -->
+## Maintainers
+* Dennnis de Houx - dennis@aio.be
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgment
+
+* []()
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[Contributors-shield]: https://img.shields.io/github/contributors/OneForTheCode/Laravel-9-OFTC-Base.svg?style=for-the-badge
+[Contributors-url]: https://github.com/OneForTheCode/Laravel-9-OFTC-Base/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/OneForTheCode/Laravel-9-OFTC-Base.svg?style=for-the-badge
+[forks-url]: https://github.com/OneForTheCode/Laravel-9-OFTC-Base/network/members
+[stars-shield]: https://img.shields.io/github/stars/OneForTheCode/Laravel-9-OFTC-Base.svg?style=for-the-badge
+[stars-url]: https://github.com/OneForTheCode/Laravel-9-OFTC-Base/stargazers
+[issues-shield]: https://img.shields.io/github/issues/OneForTheCode/Laravel-9-OFTC-Base.svg?style=for-the-badge
+[issues-url]: https://github.com/OneForTheCode/Laravel-9-OFTC-Base/issues
+[license-shield]: https://img.shields.io/github/license/OneForTheCode/Laravel-9-OFTC-Base.svg?style=for-the-badge
+[license-url]: https://github.com/OneForTheCode/Laravel-9-OFTC-Base/blob/master/LICENSE
