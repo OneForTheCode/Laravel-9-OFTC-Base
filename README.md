@@ -35,6 +35,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
+        <li><a href="#use-packages">Used Packages</a></li>
       </ul>
     </li>
     <li>
@@ -70,6 +71,12 @@ Laravel 9 - One For The Code Base is a laravel 9 basic install with extra compon
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+### Used Packages
+
+To see all the details of the used and installed composer/npm packages and their documentation please read the [`PACKAGES.md`](https://github.com/OneForTheCode/Laravel-9-OFTC-Base/PACKAGES.md) file for more information.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 <!-- GETTING STARTED -->
 ## 2. Getting Started
@@ -82,10 +89,12 @@ To get a local copy up and running follow these simple example steps.
 The following tools and services need to be installed on your development or production enviroment.
 If these tools or services aren't installed yet, please follow the install guides of the tools or services itself.
 
+*Required*
 * git [download](https://git-scm.com/downloads)
 * nodejs [download](https://nodejs.org/en/downloads)
 * php 8.x [download](https://php.net/downloads.php)
 * composer [download](http://getcomposer.org/dpownload)
+
 *Optional*
 * HTTP server with PHP support (e.g.: Apache, Nginx, Caddy)
 * A supported database (e.g.: MySQL, MariaDB, PostgreSQL, Redis)
@@ -121,8 +130,10 @@ If these tools or services aren't installed yet, please follow the install guide
    ```sh
    php artisan key:generate
    ```
-   ** [color=darkred] Never change the `APP_KEY` after installation on production enviroment.
-   This wil result in all of your encrypted/hashed data being lost. [/color]**
+   <div style="background-color: red; color: dark-red;">
+     Never change the `APP_KEY` after installation on production enviroment.
+     This wil result in all of your encrypted/hashed data being lost.
+   </div>
 7. Running database migrations
    ```sh
    php artisan migrate
@@ -167,7 +178,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## 5. License
 
-Distributed under the MIT License. see `LICENSE`for more information.
+Distributed under the MIT License. see [`LICENSE`](https//github.com/OneForTheCode/Laravel-9-OFTC-Base/LICENSE) for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -176,7 +187,9 @@ Distributed under the MIT License. see `LICENSE`for more information.
 ## 6. Contact
 
 [One For The Code](https://one-for-the-code.be) - info@oftc.be
+
 [All In One](hhttps://all-in-one.be) - [@allinonebe](http//twitter.com/allinonebe) - info@all-in-one.be
+
 Project Link: [https://github.com/OneForTheCode/Laravel-9-OFTC-Base](https://github.com/OneForTheCode/Laravel-9-OFTC-Base)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
