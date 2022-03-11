@@ -36,6 +36,7 @@ developer or production extra's
 - [ ] Livewire Datatables [mediconesystems/livewire-datatables](https://livewire-datatables.com)
 - [ ] Livewire Calendar [asantibanez/livewire-calendar](https://github.com/asantibanez/livewire-calendar)
 - [x] Livewire Powergrid [power-components/livewire-powergrid](http://github.com/Power-Components/livewire-powergrid)
+- [x] Livewire Alert [jantinnerezo/livewire-alert](http://github.com/jantinnerezo/livewire-alert)
 
 # Tailwind
 
