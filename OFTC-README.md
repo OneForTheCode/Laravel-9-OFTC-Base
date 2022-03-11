@@ -4,7 +4,7 @@ Laravel 9 - One For The Code Base is a laravel 9 basic install with
 extra components, tools, traits, livewire components and many other
 developer or production extra's
 
-# Laravel
+# [Laravel 9.x](https://laravel.com)
 
 ## *Laravel Extra's*
 | Activated | Package Name | Composer require | Source | Documentation |
@@ -49,7 +49,7 @@ developer or production extra's
 - HasManyProducts
 
 
-# Livewire (https://laravel-livewire.com)
+# [Livewire](https://laravel-livewire.com)
 
 ## Livewire Extra's
 
@@ -62,7 +62,7 @@ developer or production extra's
 | :heavy_check_mark: | Livewire Alert | jantinnerezo/livewire-alert | [github](http://github.com/jantinnerezo/livewire-alert) | - |
 | :heavy_check_mark: | Livewire Toast | ascsoftw/livewire-toast | [github](http://github.com/ascsoftw/livewire-toast) | - |
 
-# Tailwind
+# [Tailwind CSS](https://tailwindcss.com)
 
 ## Tailwind Plugins
 | Activated | Package Name | NPM Install | Source | Documentation |
