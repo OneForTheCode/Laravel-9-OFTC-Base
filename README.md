@@ -185,7 +185,7 @@ Distributed under the MIT License. see [`LICENSE`](https//github.com/OneForTheCo
 ## 6. Contact
 
 - [One For The Code](https://one-for-the-code.be) - info@oftc.be
-- [All In One](hhttps://all-in-one.be) - [@allinonebe](http//twitter.com/allinonebe) - info@all-in-one.be
+- [All In One](https://all-in-one.be) - [@allinonebe](http//twitter.com/allinonebe) - info@all-in-one.be
 - Project Link: [https://github.com/OneForTheCode/Laravel-9-OFTC-Base](https://github.com/OneForTheCode/Laravel-9-OFTC-Base)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
