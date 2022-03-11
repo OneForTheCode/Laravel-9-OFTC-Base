@@ -99,7 +99,7 @@
 
 ### Laravel Traits
 
-#### Belongs To
+***Belongs To***
 - BelongsToComment
 - BelongsToPost
 - BelongsToProduct
@@ -108,7 +108,7 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-#### Has Many
+***Has Many***
 - HasManyComments
 - HasManyPosts
 - HasManyProducts
