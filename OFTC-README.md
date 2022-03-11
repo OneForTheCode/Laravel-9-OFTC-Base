@@ -28,11 +28,14 @@ developer or production extra's
 - HasManyProducts
 
 
-# Livewire
+# Livewire (https://laravel-livewire.com)
 
 ## Livewire Extra's
 
 ## Livewire Components
+- [ ] Livewire Datatables [mediconesystems/livewire-datatables](https://livewire-datatables.com)
+- [ ] Livewire Calendar [asantibanez/livewire-calendar](https://github.com/asantibanez/livewire-calendar)
+- [x] Livewire Powergrid [power-components/livewire-powergrid](http://github.com/Power-Components/livewire-powergrid)
 
 # Tailwind
 
