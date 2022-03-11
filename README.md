@@ -4,6 +4,8 @@
 [![Contributors][Contributors-shield]][Contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
+[![Downloads][download-shield]][download-url]
+[![LastCommit][lastcommit-shield]][lastcommit-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
@@ -89,9 +91,9 @@ If these tools or services aren't installed yet, please follow the install guide
 
 ***Required***
 * git [download](https://git-scm.com/downloads)
-* nodejs [download](https://nodejs.org/en/downloads)
+* nodejs 14.17+ [download](https://nodejs.org/en/downloads)
 * php 8.x [download](https://php.net/downloads.php)
-* composer [download](http://getcomposer.org/dpownload)
+* composer 2.2+ [download](http://getcomposer.org/dpownload)
 
 ***Optional***
 * HTTP server with PHP support (e.g.: Apache, Nginx, Caddy)
@@ -224,3 +226,7 @@ Distributed under the MIT License. see [`LICENSE`](https://github.com/OneForTheC
 [issues-url]: https://github.com/OneForTheCode/Laravel-9-OFTC-Base/issues
 [license-shield]: https://img.shields.io/github/license/OneForTheCode/Laravel-9-OFTC-Base.svg?style=for-the-badge
 [license-url]: https://github.com/OneForTheCode/Laravel-9-OFTC-Base/blob/master/LICENSE
+[download-shield]: https://img.shields.io/github/downloads/OneForTheCode/Laravel-9-OFTC-Base.svg?style=for-the-badge
+[download-url]: https://github.com/OneForTheCode/Laravel-9-OFTC-Base/releases
+[lastcommit-shield]: https://img.shields.io/github/commits/OneForTheCode/Laravel-9-OFTC-Base.svg?style=for-the-badge
+[lastcommit-url]: https://github.com/OneForTheCode/Laravel-9-OFTC-Base/commits/main
