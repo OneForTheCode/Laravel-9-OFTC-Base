@@ -14,6 +14,7 @@ developer or production extra's
 - [x] Laravel Support Bubble - [spatie/laravel-support-bubble](https://github.com/spatie/laravel-support-bubble)
 - [x] Laravel Markdown - [spatie/laravel-markdown](https://spatie.be/docs/laravel-markdown/v1/introduction)
 - [x] Laravel Schedule Monitor - [spatie/laravel-schedule-monitor](https://github.com/spatie/laravel-schedule-monitor)
+- [x] Laravel Welcome Notification - [spatie/laravel-welcome-notification](https://github.com/spatie/laravel-welcome-notification)
 
 ## *Laravel Developers Extra's*
 - [x] Laravel Debugbar - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar)
