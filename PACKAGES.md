@@ -32,7 +32,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#1-laravel-9.x">Laravel 9.x</a>
+      <a href="#1-laravel-9x">Laravel 9.x</a>
       <ul>
         <li><a href="#laravel-production-packages">Laravel Production packages</a></li>
         <li><a href="#laravel-developer-packages">Laravel Developer Packages</a></li>
