@@ -64,15 +64,14 @@ Laravel 9 - One For The Code Base is a laravel 9 basic install with extra compon
 
 ### Built With
 
-<span style="display: block; text-align: center">
+<p align="center">
   <a href="https://laravel.com"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" alt="Laravel Logo" width="400"></a>
-
-  <a href="https://jetstream.laravel.com"><img src="https://raw.githubusercontent.com/laravel/jetstream/2.x/art/logo.svg" alt="Jetstream Logo" width="400"></a>
-
   <a href="https://laravel-livewire.com"><img src="https://laravel-livewire.com/img/logo.svg" alt="Livewire Logo" width="400"></a>
-
+</p>
+<p align="center">
+  <a href="https://jetstream.laravel.com"><img src="https://raw.githubusercontent.com/laravel/jetstream/2.x/art/logo.svg" alt="Jetstream Logo" width="400"></a>
   <a href="https://tailwindcss.com"><img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-light.svg" alt="Tailwindcss Logo" width="400"></a>
-</span>
+</p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
