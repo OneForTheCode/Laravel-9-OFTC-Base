@@ -81,6 +81,7 @@
 | :heavy_check_mark: | Laravel Referer | spatie/laravel-referer | [github](https://github.com/spatie/laravel-referer) | - |
 | :heavy_check_mark: | Laravel Sitemap | spatie/laravel-sitemap | [github](https://github.com/spatie/laravel-sitemap) | - |
 | :heavy_check_mark: | Laravel Activity Log | spatie/laravel-activitylog | [github](https://github.com/spatie/laravel-activitylog) | [spatie.be](https://docs.spatie.be/laravel-activitylog) |
+| :heavy_check_mark: | Laravel Charts | consoletvs/charts | [github](https://github.com/ConsoleTVs/Charts) | [charts.erik.cat](https://charts.erik.cat) |
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
