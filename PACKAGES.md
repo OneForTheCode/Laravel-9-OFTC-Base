@@ -67,12 +67,12 @@
 ### Laravel Production Packages
 | Activated | Package Name | Composer require | Source | Documentation |
 | :-------: | ------------ | ---------------- | ------ | ------------- |
-| :heavy_check_mark: | Laravel Jetstream | laravel/jetstream | - | [jetstream.laravel.com](https://jetstream.laravel.com/2.x/) |
-| :heavy_check_mark: | Laravel Backup | spatie/laravel-backup | - | [spatie.be](https://spatie.be/docs/laravel-backup/v8/introduction) |
+| :heavy_check_mark: | Laravel Jetstream | laravel/jetstream | [github](https://github.com/spatie/laravel/jetstream/2.x) | [jetstream.laravel.com](https://jetstream.laravel.com/2.x/) |
+| :heavy_check_mark: | Laravel Backup | spatie/laravel-backup | [github](https://github.com/spatie/laravel-backup) | [spatie.be](https://spatie.be/docs/laravel-backup/v8/introduction) |
 | :heavy_check_mark: | Laravel Slack Alerts | spatie/laravel-slack-alerts | [github](https://github.com/spatie/laravel-slack-alerts) | - |
 | :heavy_check_mark: | Laravel Discord Alerts | spatie/laravel-discord-alerts | [github](https://github.com/spatie/laravel-discord-alerts) | - |
 | :heavy_check_mark: | Laravel Support Bubble | spatie/laravel-support-bubble | [github](https://github.com/spatie/laravel-support-bubble) | - |
-| :heavy_check_mark: | Laravel Markdown | spatie/laravel-markdown | - | [spatie.be](https://spatie.be/docs/laravel-markdown/v1/introduction) |
+| :heavy_check_mark: | Laravel Markdown | spatie/laravel-markdown | [github](https://github.com/spatie/laravel-markdown) | [spatie.be](https://spatie.be/docs/laravel-markdown/v1/introduction) |
 | :heavy_check_mark: | Laravel Schedule Monitor | spatie/laravel-schedule-monitor | [github](https://github.com/spatie/laravel-schedule-monitor) | - |
 | :heavy_check_mark: | Laravel Welcome Notification | spatie/laravel-welcome-notification | [github](https://github.com/spatie/laravel-welcome-notification) | - |
 | :heavy_check_mark: | Laravel Honeypot | spatie/laravel-honepot | [github](https://github.com/spatie/laravel-honepot) | - |
@@ -127,10 +127,10 @@
 ### Livewire Components
 | Activated | Package Name | Composer require | Source | Documentation |
 | :-------: | ------------ | ---------------------- | ------ | ------------- |
-| :heavy_multiplication_x: | Livewire Datatables | mediconesystems/livewire-datatables | [github](https://livewire-datatables.com) | - |
+| :heavy_multiplication_x: | Livewire Datatables | mediconesystems/livewire-datatables | [github](https://livewire-datatables.com) | [livewire-datatables.com](https://livewire-datatables.com) |
 | :heavy_multiplication_x: | Livewire Calendar | asantibanez/livewire-calendar | [github](https://github.com/asantibanez/livewire-calendar) | - |
-| :heavy_check_mark: | Livewire Powergrid | power-components/livewire-powergrid | [github](http://github.com/Power-Components/livewire-powergrid) | - |
-| :heavy_check_mark: | Livewire Alert | jantinnerezo/livewire-alert | [github](http://github.com/jantinnerezo/livewire-alert) | - |
+| :heavy_check_mark: | Livewire Powergrid | power-components/livewire-powergrid | [github](http://github.com/Power-Components/livewire-powergrid) | [livewire-powergrid.com](https://livewire-powergrid.com) |
+| :heavy_check_mark: | Livewire Alert | jantinnerezo/livewire-alert | [github](http://github.com/jantinnerezo/livewire-alert) | [ivewire-alert.jantinnerezo.com](https://livewire-alert.jantinnerezo.com) |
 | :heavy_check_mark: | Livewire Toast | ascsoftw/livewire-toast | [github](http://github.com/ascsoftw/livewire-toast) | - |
 
 <p align="right">(<a href="#top">back to top</a>)</p>
