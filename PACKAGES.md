@@ -75,12 +75,12 @@
 | :heavy_check_mark: | Laravel Markdown | spatie/laravel-markdown | [github](https://github.com/spatie/laravel-markdown) | [spatie.be](https://spatie.be/docs/laravel-markdown/v1/introduction) |
 | :heavy_check_mark: | Laravel Schedule Monitor | spatie/laravel-schedule-monitor | [github](https://github.com/spatie/laravel-schedule-monitor) | - |
 | :heavy_check_mark: | Laravel Welcome Notification | spatie/laravel-welcome-notification | [github](https://github.com/spatie/laravel-welcome-notification) | - |
-| :heavy_check_mark: | Laravel Honeypot | spatie/laravel-honepot | [github](https://github.com/spatie/laravel-honepot) | - |
-| :heavy_check_mark: | iso3166 | league/iso3166 | [github](https://github.com/thephpleague/iso3166) | - |
+| :heavy_check_mark: | Laravel Honeypot | spatie/laravel-honepot | [github](https://github.com/spatie/laravel-honeypot) | - |
+| :heavy_check_mark: | iso3166 | league/iso3166 | [github](https://github.com/thephpleague/iso3166) | [thephpleague.com](https://iso3166.thephpleague.com) |
 | :heavy_check_mark: | Laravel Validation Rules | spatie/laravel-validation-rules | [github](https://github.com/spatie/laravel-validation-rules) | - |
 | :heavy_check_mark: | Laravel Referer | spatie/laravel-referer | [github](https://github.com/spatie/laravel-referer) | - |
 | :heavy_check_mark: | Laravel Sitemap | spatie/laravel-sitemap | [github](https://github.com/spatie/laravel-sitemap) | - |
-| :heavy_check_mark: | Laravel Activity Log | spatie/laravel-activitylog | [github](https://github.com/spatie/laravel-activitylog) | - |
+| :heavy_check_mark: | Laravel Activity Log | spatie/laravel-activitylog | [github](https://github.com/spatie/laravel-activitylog) | [spatie.be](https://docs.spatie.be/laravel-activitylog) |
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
