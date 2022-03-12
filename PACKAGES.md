@@ -151,41 +151,53 @@
 ### Tailwind Extended theme
 
 ***Colors***
-- primary:
-    '50': '#ffe5f9',
-    '100': '#ffccf3',
-    '200': '#ff99e7',
-    '300': '#ff66db',
-    '400': '#ff33cf',
-    '500': '#ff00c3',
-    '600': '#cc009c',
-    '700': '#990075',
-    '800': '#66004e',
-    '900': '#330027'
+<details>
+  <summary>primary</summary>
+    <ul>
+      <li>50: #ffe5f9</li>
+      <li>100: #ffccf3</li>
+      <li>200: #ff99e7</li>
+      <li>300: #ff66db</li>
+      <li>400: #ff33cf</li>
+      <li>500: #ff00c3</li>
+      <li>600: #cc009c</li>
+      <li>700: #990075</li>
+      <li>800: #66004e</li>
+      <li>900: #330027</li>
+    </ul>
+</details>
 
-- secondary:
-    '50': '#f9ffe5',
-    '100': '#f3ffcc',
-    '200': '#e7ff99',
-    '300': '#dbff66',
-    '400': '#cfff33',
-    '500': '#c3ff00',
-    '600': '#9ccc00',
-    '700': '#759900',
-    '800': '#4e6600',
-    '900': '#273300'
+<details>
+  <summary>secondary</summary>
+    <ul>
+      <li>50: #f9ffe5</li>
+      <li>100: #f3ffcc</li>
+      <li>200: #e7ff99</li>
+      <li>300: #dbff66</li>
+      <li>400: #cfff33</li>
+      <li>500: #c3ff00</li>
+      <li>600: #9ccc00</li>
+      <li>700: #759900</li>
+      <li>800: #4e6600</li>
+      <li>900: #273300</li>
+    </ul>
+</details>
 
-- accent:
-    '50': '#e5f9ff',
-    '100': '#ccf3ff',
-    '200': '#99e7ff',
-    '300': '#66dbff',
-    '400': '#33cfff',
-    '500': '#00c3ff',
-    '600': '#009ccc',
-    '700': '#007599',
-    '800': '#004e66',
-    '900': '#002733'
+<details>
+  <summary>accent</summary>
+    <ul>
+      <li>50: #e5f9ff</li>
+      <li>100: #ccf3ff</li>
+      <li>200: #99e7ff</li>
+      <li>300: #66dbff</li>
+      <li>400: #33cfff</li>
+      <li>500: #00c3ff</li>
+      <li>600: #009ccc</li>
+      <li>700: #007599</li>
+      <li>800: #004e66</li>
+      <li>900: #002733</li>
+    </ul>
+</details>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
